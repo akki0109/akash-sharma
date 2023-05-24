@@ -1,0 +1,14 @@
+---------------------------------windows installation of node 18.15.0------------------------------------------------------------------------------ 
+
+https://github.com/coreybutler/nvm-windows/releases
+
+
+----------------------------download node-setup.zip-----------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------extract zip and run node.exe file---------------------------------------------------------------------------------
+
+nvm install 18.15.0
+
+
+------------------after that it will ask you to run nvm use command with node version which you currently installed so it getb in effect---------------------------------
+

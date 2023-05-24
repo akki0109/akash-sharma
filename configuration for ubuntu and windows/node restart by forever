@@ -1,0 +1,3 @@
+node restart by forever
+
+forever restart /bin/www
