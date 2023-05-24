@@ -1,0 +1,14 @@
+[14/04 12:50] Suraj Giri
+
+
+
+
+netstat -ano
+
+
+
+taskkill /PID <PID> /F
+
+tasklist
+
+netstat -ano
